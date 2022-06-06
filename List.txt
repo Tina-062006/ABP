@@ -2,7 +2,7 @@
 ! Title: OwnList 
 
 !-----------------------General advert blocking filters-----------------------!
-https://codecombat.com/
+https://codecombat.com/*
 https://www.youtube.com/
 
 
